@@ -7,3 +7,7 @@
 ## 2022
 
 - I learn about OOP with Java and use Netbeans for it
+
+## 2023
+
+- I have opportunity to join Bangkit Pragram at Kampus Merdeka
